@@ -2,13 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://joff.re/courses/example/example1/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url><url>
+    <loc>https://joff.re/courses/example/</loc>
+    <lastmod>2018-09-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://joff.re/courses/example/example2/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url><url>
+    <loc>https://joff.re/talk/example/</loc>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://joff.re/</loc>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://joff.re/talk/</loc>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://joff.re/publication-type/3/</loc>
     <lastmod>2022-05-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://joff.re/authors/</loc>
-    <lastmod>2022-05-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://joff.re/</loc>
     <lastmod>2022-05-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://joff.re/author/joffre-leroux/</loc>
@@ -53,14 +68,35 @@
     <loc>https://joff.re/author/richard-j.-smith/</loc>
     <lastmod>2019-05-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://joff.re/categories/</loc>
-  </url><url>
     <loc>https://joff.re/courses/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url><url>
-    <loc>https://joff.re/post/</loc>
+    <loc>https://joff.re/slides/</loc>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://joff.re/talk/</loc>
+    <loc>https://joff.re/slides/example/</loc>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://joff.re/tag/deep-learning/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://joff.re/tag/demo/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://joff.re/project/external-project/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://joff.re/project/internal-project/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://joff.re/project/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://joff.re/tags/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://joff.re/categories/</loc>
+  </url><url>
+    <loc>https://joff.re/post/</loc>
   </url>
 </urlset>
